@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BGcpmq1p/4B9FrtYYxrD55wGLp/HrolgPZt1iZGnIxuIQout6n2+0GkFyuQEVUiRAyVrLPIDy7OVE6rlrg9QaQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\berat\\source\\repos\\WebSocketTest\\WebSocketTest\\WebSocketTestt.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\berat\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

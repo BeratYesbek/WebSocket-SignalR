@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "A3ZYI/eiX+HXhUl//D3nWB4csNMVD6VrTIEle1NgyX4daJdH7Mr5+VZR3J8NJr72V5eVtqnAz5Avzgh8rQCQJQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\berat\\source\\repos\\WebSocketTest\\WebSignalRServer\\WebSignalRServer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\berat\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

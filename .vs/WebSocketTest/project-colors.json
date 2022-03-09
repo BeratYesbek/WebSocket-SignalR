@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "076a7e54-8cab-4783-aa50-5927e81bc490": {
+      "ProjectGuid": "076a7e54-8cab-4783-aa50-5927e81bc490",
+      "DisplayName": "WebSocketTestt",
+      "ColorIndex": 0
+    },
+    "74347fbf-bf2c-4558-9944-a4c5cd1c7719": {
+      "ProjectGuid": "74347fbf-bf2c-4558-9944-a4c5cd1c7719",
+      "DisplayName": "WebSignalRServer",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
